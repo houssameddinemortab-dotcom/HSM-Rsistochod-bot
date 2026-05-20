@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for hsm-rsistochod-bot on 2026-05-20T10:56:47Z
+# fly.toml app configuration file generated for hsm-rsistochod-bot-hnbj7g on 2026-05-20T11:00:13Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hsm-rsistochod-bot'
+app = 'hsm-rsistochod-bot-hnbj7g'
 primary_region = 'cdg'
 
 [build]
